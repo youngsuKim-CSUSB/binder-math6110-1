@@ -1,5 +1,6 @@
-Asynchronous activity sheet
+Asynchronous activity sheet 
 ---
+Due by Wednesday, Feb 7th, 11:59 pm
 
 There are a few ways you run ``SageMath`` on ``JupyterLab``.
 
@@ -10,4 +11,4 @@ There are a few ways you run ``SageMath`` on ``JupyterLab``.
 
 When done you will need to save your notebook and upload it to Canvas. 
 
-For a brief introduction to JupyterLab, https://www.youtube.com/watch?v=-UwAsLtl8nQ or Google for more information. 
+For a brief introduction to JupyterLab, https://www.youtube.com/watch?v=-UwAsLtl8nQ, https://www.youtube.com/watch?v=5pf0_bpNbkw, or Google for more information as needed. 
