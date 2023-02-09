@@ -1,6 +1,6 @@
 Asynchronous activity sheet 
 ---
-Due by Wednesday, Feb 7th, 11:59 pm
+Due by Wednesday, Feb 8th, 11:59 pm
 
 There are a few ways you run ``SageMath`` on ``JupyterLab``.
 
